@@ -1,0 +1,7 @@
+2024-12-10 20:49:09,926 - ERROR - 404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=AAPL.NS&crumb=xXbXgmfImPW
+2024-12-10 20:50:12,986 - INFO - Stock added: INFOSYS LTD (INFY.NS) for user Rohan Kamath
+2024-12-10 20:50:26,329 - ERROR - 404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/WDJIEFJEIFIEFIE.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=WDJIEFJEIFIEFIE.NS&crumb=xXbXgmfImPW
+2024-12-10 20:53:38,508 - INFO - Stock added: TATA CONSULTANCY SERVICES (TCS.NS) for user Rohan Kamath
+2024-12-10 20:54:01,095 - ERROR - 404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=AAPL.NS&crumb=xXbXgmfImPW
+2024-12-10 20:54:13,859 - ERROR - 404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/AAPL.NS?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=AAPL.NS&crumb=xXbXgmfImPW
+2024-12-10 20:54:34,894 - INFO - Stock added: NATIONAL THERMAL POWER COOPERATION (NTPC.NS) for user Rohan Kamath
