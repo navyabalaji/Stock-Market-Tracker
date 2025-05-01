@@ -1,0 +1,4 @@
+TCS.NS
+INFY.NS
+TCS
+Infosys
