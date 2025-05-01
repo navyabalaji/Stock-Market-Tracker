@@ -27,8 +27,14 @@ It offers an intuitive GUI built using `customtkinter` and integrates APIs like 
    cd path/to/StockMarket
    ```
 4. Run the application:
-   - **Windows**: `python app.py`
-   - **Mac/Linux**: `python3 app.py`
+   - **Windows**:
+   ```bash
+   python app.py
+    ```
+   - **Mac/Linux**:
+   ```bash
+   python3 app.py
+    ```
 
 ---
 
@@ -63,24 +69,37 @@ pip install <library-name>
 ```
 
 `customtkinter` – GUI creation
+
 `pillow` – Image processing
+
 `pandas` – Data manipulation & analysis
+
 `matplotlib` – Visualization (line/candlestick plots)
+
 `requests` – HTTP requests
+
 `yfinance` – Fetching Yahoo Finance data
+
 
 Additional built-in modules:
 
 `subprocess` – Running system commands
+
 `sys` – Interacting with Python runtime environment
+
 `sqlite3` – Database management
+
 `webbrowser` – Opening URLs in default browser
+
 `threading` – Running parallel threads
+
 `tkinter` – Messagebox dialogs
+
 
 # APIs
 
 `Yahoo Finance API` – For retrieving real-time and historical stock data
+
 `News API` – For fetching financial market news
 
 ---
